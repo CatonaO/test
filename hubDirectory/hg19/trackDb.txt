@@ -1,7 +1,7 @@
-track testint2
+track testint
 bigDataUrl https://raw.githubusercontent.com/CatonaO/test/main/UCSC_interactions_Active(3).bed
-shortLabel int test
+shortLabel inttest
 longLabel hmsLRI Active
-type hic
+type bigInteract
 visibility dense
-description hic
+description bigInteract
