@@ -1,0 +1,6 @@
+track testint
+bigDataUrl http://hgdownload.soe.ucsc.edu/gbdb/hg19/bbi/hic/GSE63525_GM12878_insitu_primary+replicate_combined.hic
+shortLabel int test
+longLabel This hic file shows in situ Hi-C data from Rao 2014 on the GM12878 cell line
+type hic
+visibility dense
