@@ -4,4 +4,4 @@ shortLabel int test
 longLabel hmsLRI Active
 type interact
 visibility dense
-description interactions
+description interact
