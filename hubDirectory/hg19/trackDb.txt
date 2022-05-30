@@ -1,4 +1,4 @@
-track testint
+track testint2
 bigDataUrl https://raw.githubusercontent.com/CatonaO/test/main/UCSC_interactions_Active(3).bed
 shortLabel int test
 longLabel hmsLRI Active
