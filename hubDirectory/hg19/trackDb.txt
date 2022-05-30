@@ -1,5 +1,5 @@
 track testint
-bigDataUrl http://hgdownload.soe.ucsc.edu/gbdb/hg19/bbi/hic/GSE63525_GM12878_insitu_primary+replicate_combined.hic
+bigDataUrl https://raw.githubusercontent.com/CatonaO/test/main/UCSC_interactions_Active(3).bed
 shortLabel int test
 longLabel This hic file shows in situ Hi-C data from Rao 2014 on the GM12878 cell line
 type hic
