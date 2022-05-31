@@ -4,5 +4,5 @@ shortLabel inttest
 longLabel hmsLRI Active
 type bigInteract
 interactDirectional true
-visibility dense
+visibility full
 description bigInteract
