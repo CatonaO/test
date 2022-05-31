@@ -3,5 +3,6 @@ bigDataUrl https://raw.githubusercontent.com/CatonaO/test/main/regions4UCSC.bb
 shortLabel inttest
 longLabel hmsLRI Active
 type bigInteract
+interactDirectional true
 visibility dense
 description bigInteract
