@@ -1,5 +1,5 @@
-hub MyHubsNameWithoutSpaces
-shortLabel Orazio Hub
-longLabel Name up to 80 characters versus shortLabel limited to 17 characters
+hub Interactions
+shortLabel Interactions Hub
+longLabel Active and Poised human-mouse syntenic Long Range Interactions
 genomesFile genomes.txt
 email  orazio.catona@gmail.com
