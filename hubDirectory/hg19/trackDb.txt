@@ -10,9 +10,9 @@ description Active Interactions
 track Poised_interactions
 bigDataUrl https://raw.githubusercontent.com/CatonaO/test/main/Poi_int_for_UCSC_Browser.bb
 shortLabel ActInt
-longLabel hmsLRI Active
+longLabel hmsLRI Poised
 type bigInteract
 interactDirectional true
 visibility full
-description Active Interactions 
+description Poised Interactions 
 
