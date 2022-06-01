@@ -1,8 +1,8 @@
-track testint
+track Active_interactions
 bigDataUrl https://raw.githubusercontent.com/CatonaO/test/main/regions4UCSC.bb
-shortLabel inttest
+shortLabel ActInt
 longLabel hmsLRI Active
 type bigInteract
 interactDirectional true
 visibility full
-description bigInteract
+description Active Interactions 
